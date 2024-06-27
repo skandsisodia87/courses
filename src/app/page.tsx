@@ -1,7 +1,7 @@
 export default function Home() {
-  return (
-    <div className="bg-slate-600 font-serif text-center text-2xl">
-      Skand Sisodia
-    </div>
-  );
+	return (
+		<main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+			<h1 className="text-2xl text-center">Chai our code</h1>
+		</main>
+	);
 }
